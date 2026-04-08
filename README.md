@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=%D0%93%D0%B0%D0%BC%D0%B8%D0%B4%20%D0%A3%D0%B7%D0%B0%D0%BB%D0%BE%D0%B2%20%C2%B7%20Junior%20DevOps;Backend%3A%20Python%2C%20Django%20%C2%B7%20HTML%2C%20CSS;Linux%20%C2%B7%20Docker%20%C2%B7%20Kubernetes%20%C2%B7%20Git%20%C2%B7%20CI%2FCD" alt="Заголовок профиля" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=%D0%A2%D0%B2%D0%BE%D0%B5+%D0%98%D0%BC%D1%8F;Junior+Developer;Python+%C2%B7+Linux+%C2%B7+Git;Docker+%C2%B7+HTML+%C2%B7+CSS" alt="Заголовок профиля" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Uzalov-Gamid)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/crabbbic)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzalovgamid@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new-generation10)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rostik926)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serkov836@gmail.com)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### О себе
 
-**Узалов Гамид.** Возраст: **18 лет**. IT изучаю **около трёх лет**.
+**Серков Ростислав.** Возраст: **18 лет**. IT изучаю **около трёх лет**.
 
 Специализация - **Junior DevOps** при поддержке навыков **бэкенд-разработки** на **Python** (фреймворк **Django**) и базовой **веб-вёрстки** (**HTML**, **CSS**).
 
