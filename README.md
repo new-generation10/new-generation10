@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=%D0%A2%D0%B2%D0%BE%D0%B5+%D0%98%D0%BC%D1%8F;Junior+Developer;Python+%C2%B7+Linux+%C2%B7+Git;Docker+%C2%B7+HTML+%C2%B7+CSS" alt="Заголовок профиля" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=%D0%A0%D0%BE%D1%81%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2+%D0%A1%D0%B5%D1%80%D0%BA%D0%BE%D0%B2+%C2%B7+Junior+DevOps;CI%2FCD+%C2%B7+Docker+%C2%B7+Linux;Bash" alt="Заголовок профиля" />
 
 <br/>
 
