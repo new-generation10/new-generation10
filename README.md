@@ -28,6 +28,15 @@
 
 ---
 
+## Проекты
+
+### Linux Monitoring Toolkit
+Модульный Bash-проект для мониторинга Linux-системы, цветного вывода и анализа файловой системы в Ubuntu Server.  
+**Стек:** Bash, Linux, awk, find, du, sort  
+[Открыть проект](https://github.com/new-generation10/my_project/tree/main/DO3_LinuxMonitoring_v1.0.ID_356278-1-develop)
+
+---
+
 ### Стек и инструменты
 
 <p align="left">
